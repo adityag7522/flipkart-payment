@@ -1,0 +1,72 @@
+[
+    {
+      "offerId": "FPO250801120001YESB1",
+      "provider": ["YESBANK"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/YES.svg",
+      "offerTitle": "Get ₹200 cashback",
+      "offerDetailText": "Flat ₹200 cashback on YES Bank Credit Card spends above ₹3000"
+    },
+    {
+      "offerId": "FPO250801120002SBI01",
+      "provider": ["SBICARD"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/SBI.svg",
+      "offerTitle": "Save ₹500 on SBI Cards",
+      "offerDetailText": "Flat ₹500 discount on SBI Credit Card EMI transactions above ₹8000"
+    },
+    {
+      "offerId": "FPO250801120003BOI01",
+      "provider": ["BANKOFINDIA"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/BOI.svg",
+      "offerTitle": "Get ₹50 cashback",
+      "offerDetailText": "₹50 cashback on Bank of India Debit Card spends above ₹1000"
+    },
+    {
+      "offerId": "FPO250801120004PNB01",
+      "provider": ["PNB"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/PNB.svg",
+      "offerTitle": "Save ₹100 on PNB Cards",
+      "offerDetailText": "Flat ₹100 discount on Punjab National Bank Credit Card spends above ₹2500"
+    },
+    {
+      "offerId": "FPO250801120005KOTAK1",
+      "provider": ["KOTAKBANK"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/KOTAK.svg",
+      "offerTitle": "Get ₹75 cashback",
+      "offerDetailText": "₹75 cashback on Kotak Bank Debit Card transactions above ₹1500"
+    },
+    {
+      "offerId": "FPO250801120006AMEX01",
+      "provider": ["AMEX"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/AMEX.svg",
+      "offerTitle": "Save ₹250 on AMEX Cards",
+      "offerDetailText": "Flat ₹250 discount on American Express Credit Card spends above ₹4000"
+    },
+    {
+      "offerId": "FPO250801120007IDFC01",
+      "provider": ["IDFCFIRSTBANK"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/IDFC.svg",
+      "offerTitle": "Get ₹120 cashback",
+      "offerDetailText": "₹120 cashback on IDFC FIRST Bank Credit Card spends above ₹2200"
+    },
+    {
+      "offerId": "FPO250801120008BOB01",
+      "provider": ["BANKOFBARODA"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/BOB.svg",
+      "offerTitle": "Save ₹80 on BOB Cards",
+      "offerDetailText": "Flat ₹80 discount on Bank of Baroda Debit Card spends above ₹1200"
+    },
+    {
+      "offerId": "FPO250801120009INDUS01",
+      "provider": ["INDUSINDBANK"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/INDUSIND.svg",
+      "offerTitle": "Get ₹60 cashback",
+      "offerDetailText": "₹60 cashback on IndusInd Bank Credit Card spends above ₹1100"
+    },
+    {
+      "offerId": "FPO250801120010UCO01",
+      "provider": ["UCOBANK"],
+      "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/UCO.svg",
+      "offerTitle": "Save ₹40 on UCO Cards",
+      "offerDetailText": "Flat ₹40 discount on UCO Bank Debit Card spends above ₹900"
+    }
+  ]
